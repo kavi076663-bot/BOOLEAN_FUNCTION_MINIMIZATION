@@ -1,4 +1,4 @@
-# BOOLEAN_FUNCTION_MINIMIZATION
+<img width="1920" height="1080" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/99c886fb-1f6f-457f-8c34-24a0ed0b5ca2" /># BOOLEAN_FUNCTION_MINIMIZATION
 
 **AIM:**
 
@@ -39,8 +39,13 @@ Developed by: RegisterNumber:*/
 
 
 **RTL realization**
+<img width="1920" height="1080" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/c10b4319-7578-442a-850e-eff0dc324bb5" />
+
+
 
 **Output:**
+<img width="1920" height="1080" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/a53ddf76-a42d-4be9-b30d-6f9e985350ae" />
+ut:**
 
 **RTL**
 
